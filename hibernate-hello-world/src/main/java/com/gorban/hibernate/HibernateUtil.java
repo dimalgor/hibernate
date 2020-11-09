@@ -1,4 +1,4 @@
-package com.howtodoinjava.hibernate.test;
+package com.gorban.hibernate;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;
